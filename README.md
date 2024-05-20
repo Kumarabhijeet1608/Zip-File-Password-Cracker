@@ -1,25 +1,29 @@
 # Zip-File-Password-Cracker
 
 ## Overview 👀🎯
-This guide will teach you how to create a simple Zip file password cracker using Python programming language. This script employs a dictionary attack, also known as a brute force attack, where it iterates through a list of possible passwords until it finds the correct one to decrypt the encrypted Zip file.
+This guide will teach you how to create a simple Zip file password cracker using Python. This script employs a dictionary attack, also known as a brute force attack, where it iterates through a list of possible passwords until it finds the correct one to decrypt the encrypted Zip file.
 
 ## Disclaimer 💀💀
 This script is not made with malicious intent, it was built for educational purposes, to understand how zip crackers work and to provide one with free and clean code :}
 
 ## Requirements ✔🔥
 - Ensure you have Python installed on your system. You can download it from the official Python website. This guide assumes you have Python 3.x installed.
-- Choose a text editor or an Integrated Development Environment (IDE) to write and edit your Python script. Popular choices include Visual Studio Code, PyCharm, Atom, Sublime Text, and IDLE (comes with Python installation).
+- Choose a text editor or an Integrated Development Environment (IDE) to write and edit your Python script. Popular choices include Visual Studio Code, PyCharm, Atom, Sublime Text, and IDLE (which comes with Python installation).
 - Python's standard library includes the zipfile module, which provides functionality to work with Zip archives. You don't need to install anything extra to use this module.
-- Create a text file containing a list of potential passwords. This file will be used by the script to attempt decryption of the Zip file.
-- Obtain the Zip file that you want to crack. Ensure it is encrypted and requires a password for extraction.
+- Create a text file containing a list of potential passwords. The script will use this file to attempt decryption of the Zip file.
+- Obtain the Zip file that you want to crack. Please make sure it is encrypted and requires a password for extraction.
 
 ## WORDLIST
 You can download a wordlist with over 14 million passwords here.[python3-nmap GitHub repository](https://github.com/nmmapper/python3-nmap).
 
 
 ## Python Script  ✔🔥
-It is provived in theformat of `main.py`. 
+It is provided in the format of `main.py`. 
 
+## Result ✔🔥
+<div> 
+       <img src="https://github.com/Kumarabhijeet1608/Zip-File-Password-Cracker/blob/main/1.png" /> 
+     </div>  
 
 ## Features 😎💰
 
