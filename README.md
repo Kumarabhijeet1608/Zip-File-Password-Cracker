@@ -14,7 +14,7 @@ This script is not made with malicious intent, it was built for educational purp
 - Obtain the Zip file that you want to crack. Please make sure it is encrypted and requires a password for extraction.
 
 ## WORDLIST
-You can download a wordlist with over 14 million passwords here.[python3-nmap GitHub repository](https://github.com/nmmapper/python3-nmap).
+You can download a wordlist with over 14 million passwords [here]([https://github.com/nmmapper/python3-nmap](https://github.com/TrollSkull/ZipCracker/releases/download/wordlist/wordlist.txt)).
 
 
 ## Python Script  ✔🔥
